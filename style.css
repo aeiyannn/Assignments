@@ -1,0 +1,44 @@
+body{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5590345ee4b023b6b8588745/1511213665683-37FFNRO83VGP9R66BNZY/OH71GW0.jpg?format=2500w)
+}
+h1{
+    color: white;
+    text-align: center;
+}
+a {
+color: rgb(245, 234, 234);
+font-style: normal;
+font-size: large;
+text-decoration: none;
+margin:25px;
+}
+marquee {
+color: rgb(60, 228, 254);
+font-size: large;
+font-weight: bold;
+}
+h2 {
+color: rgb(160, 243, 77);
+font-weight: bold;
+font-size: larger;
+text-decoration:underline;
+}
+h4 {
+color: white;
+font-style: italic;
+font-size: large;
+}
+p{
+color: white;
+font-size:large;
+font-weight: bold;
+}
+h3{
+    color: white;
+}
+/* Developer information */
+.f{
+    color: white;
+    margin: 0px;
+    text-decoration: underline;
+}
